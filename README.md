@@ -72,3 +72,11 @@ UrbanVista follows a client–server architecture:
 - Stripe account
 - Cloudinary account
 
+## Deployment
+
+A production-ready deployment of UrbanVista is live at:
+
+https://urbanvista-30br.onrender.com
+
+This hosted instance on **Render** demonstrates the full-stack application's capabilities in a cloud environment, including real-time cart persistence, secure Stripe payments, admin analytics, and responsive UI across devices. It serves as a practical example of modern MERN stack deployment practices for scalable e-commerce platforms.
+
